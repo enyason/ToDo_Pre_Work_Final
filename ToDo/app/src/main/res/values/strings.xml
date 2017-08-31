@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="help">To add a new task, click on the floating\naction button.\n\nTo update an exiting task, click on the task in the list.
+
+
+    </string>
+    <string name="about">This app is an easy going ToDo app to remind people of their task and its prioity level.\n\n
+        This app was developed by Enya Emmanuel. For support,call 08188837623 or\temail enyasonjnr@gmail.com
+
+
+    </string>
+
+    <string-array name="level_array">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+    <string-array name="period_array">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+</resources>
